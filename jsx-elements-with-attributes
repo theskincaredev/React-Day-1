@@ -1,6 +1,9 @@
 <a href='http://www.example.com'>Welcome to the Web</a>;
-
+/*saved the const in a variable and  gave the H1 elements some attributes*/
 const title = <h1 id='title'>Introduction to React.js: Part I</h1>; 
 
 
 const panda = <img src='images/panda.jpg' alt='panda' width='500px' height='500px'>;
+/*writing more lines to get familiar with how the syntax works*/
+const p1 = <p id='large'>foo</p>;
+const p2 = <p id='small'>bar</p>;
